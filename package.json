@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "engines": {
+        "node": "20"
+    },
+    "devDependencies": {
+        "@sveltejs/vite-plugin-svelte": "^5.0.3",
+        "vite": "^6.3.5",
+        "vite-node": "^3.1.3"
+    }
+}
