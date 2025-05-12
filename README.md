@@ -52,7 +52,7 @@ rm -fr node_modules/ \
     && npx vite-node src/issue.js
 ```
 
-but but then you get a deprecation warning.
+but then you get a deprecation warning.
 
 <details>
 
