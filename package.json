@@ -1,7 +1,7 @@
 {
     "type": "module",
     "engines": {
-        "node": "20"
+        "node": "22"
     },
     "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^5.0.3",
